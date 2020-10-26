@@ -27,7 +27,7 @@ This is a homework collection and their extensions for two elective courses "AI 
 
 难度适中，建议使用任意一种你熟悉的语言完成课后作业，检验自己的编程能力，个人建议：Python、Matlab
 
-教材：《人工神经网络的理论，设计及应用》
+教材：《人工神经网络的理论、设计及应用》
 
 课程进度：
 - 绪论
