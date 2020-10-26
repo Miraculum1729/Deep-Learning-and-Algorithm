@@ -2,6 +2,8 @@
 This is a homework collection and their extensions for two elective courses "AI and DL", "NN and ALGO".
 > 本文件中的所有内容主要涉及神经网络与深度学习，是华东理工大学数学与应用数学专业新开设的两门选修课（2020秋季）的作业整理和知识结构梳理
 >
+> 如果你对我写的文件有任何问题或建议：请联系我 1044969286@qq.com
+>
 >修改于 2020-10-26
 
 ## 人工智能与深度学习
@@ -50,3 +52,5 @@ This is a homework collection and their extensions for two elective courses "AI 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 [convex optimization](https://www.convexoptimization.com/)
+
+> 为尊重版权，引用请署名
